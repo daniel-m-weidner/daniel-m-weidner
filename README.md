@@ -5,10 +5,10 @@
 - <b>osTicket (Help Desk Ticketing System)</b> 🦘
   - [osTicket: Requirements & Installation](https://github.com/daniel-m-weidner/osticket-prereqs) 🖥️
   - [osTicket: Configuration of Software Experience](https://github.com/daniel-m-weidner/post-install-config) ✍️
-  - [osTicket: Tickets, Experimentation and Realistic Applications](https://github.com/daniel-m-weidner/ticket-lifecycle)  🎫
+  - [osTicket: Tickets, Experimentation & Realistic Applications](https://github.com/daniel-m-weidner/ticket-lifecycle)  🎫
 - <b>Microsoft Azure</b> ☁️
   - [Creating and Using an Active Directory [AD] with Azure VMs](https://github.com/daniel-m-weidner/configure-ad) 🗃️
-  - [Building Network Security Groups (NSG's) and Experimenting with Network Protocols](https://github.com/daniel-m-weidner/azure-network-protocols) 🔒
+  - [Building Network Security Groups (NSG's) & Experimenting with Network Protocols](https://github.com/daniel-m-weidner/azure-network-protocols) 🔒
 
 <h2> 📱 How to reach me:</h2>
 
