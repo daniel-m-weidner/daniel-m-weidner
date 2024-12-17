@@ -1,9 +1,9 @@
-<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/daniel-weidner-78142733b/">IT Support Specialist</a>💼</h1>
+<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/daniel-weidner-78142733b/">IT Support Specialist</a>💼🖥️</h1>
 
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b> 🦘
-  - [osTicket: Requirements & Installation](https://github.com/daniel-m-weidner/osticket-prereqs) 🖥️
+  - [osTicket: Requirements & Installation](https://github.com/daniel-m-weidner/osticket-prereqs) 💾
   - [osTicket: Configuration of Software Experience](https://github.com/daniel-m-weidner/post-install-config) ✍️
   - [osTicket: Tickets, Experimentation & Realistic Applications](https://github.com/daniel-m-weidner/ticket-lifecycle)  🎫
 - <b>Microsoft Azure</b> ☁️
