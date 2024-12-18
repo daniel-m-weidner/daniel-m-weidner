@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b> 🦘
   - [osTicket: Requirements & Installation](https://github.com/daniel-m-weidner/osticket-prereqs) 💾
-  - [osTicket: Configuration of the Software Experience](https://github.com/daniel-m-weidner/post-install-config) ✍️
+  - [osTicket: Configuration of the Software Experience](https://github.com/daniel-m-weidner/osTicket-configuration) ✍️
   - [osTicket: Tickets, Experimentation & Realistic Applications](https://github.com/daniel-m-weidner/ticket-lifecycle)  🎫
 - <b>Microsoft Azure</b> ☁️
   - [Creating and Using an Active Directory [AD] with Azure VMs](https://github.com/daniel-m-weidner/configure-ad) 🗃️
