@@ -14,3 +14,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/daniel-weidner-78142733b/
+weidner.laufen@gmail.com
+(+49) 177 211 9452
