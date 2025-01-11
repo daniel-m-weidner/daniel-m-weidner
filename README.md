@@ -8,7 +8,6 @@
   - [osTicket: Tickets, Experimentation & Realistic Applications](https://github.com/daniel-m-weidner/osTicket-using.tickets)  🎫
 - <b>Microsoft Azure</b> ☁️
   - [Creating and Using an Active Directory (AD) with Azure VMs](https://github.com/daniel-m-weidner/ad-showcase) 🗃️
-  - [Building Network Security Groups (NSG's) and Experimenting with Ports & Protocols](https://github.com/daniel-m-weidner/nsg-ports.protocols) 🔒
 
 <h2> 📱 How to reach me:</h2>
 
