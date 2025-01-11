@@ -15,4 +15,4 @@
 
 [linkedin]: https://linkedin.com/in/daniel-weidner-78142733b/
 weidner.laufen@gmail.com
-(+49) 177 211 9452
+  (+49) 177 211 9452
