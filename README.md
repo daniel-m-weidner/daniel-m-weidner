@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b> ☁️
   - [Creating and Using an Active Directory (AD) with Azure VMs](https://github.com/daniel-m-weidner/ad-showcase) 🗃️
 
+- <b>Video</b>
 
   - How to Build your own PC - for beginners https://youtu.be/FQglDFCnr_U 🎥
 
